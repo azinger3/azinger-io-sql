@@ -1,0 +1,1 @@
+EXEC dbo.pr_azingerio_object_sel
