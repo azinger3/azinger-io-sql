@@ -17,6 +17,7 @@ TODO:
 	dbo.budget_flat
 	dbo.budget_rollup
 	dbo.budget_transaction
+	dbo.budget_transaction_tag
 	dbo.budget_transaction_queue
 	dbo.budget_transaction_queue_log
 	dbo.budget_transaction_sms
